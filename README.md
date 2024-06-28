@@ -20,6 +20,8 @@ You can download the VM file (a .OVA file) here: https://drive.google.com/file/d
 
 You can then import this OVA file into your VM software (e.g. VMware Workstation, VMWare Fusion, VirtualBox, etc.)
 
+The main account on the VM has username `user` and password `user`.
+
 ## Manual setup
 
 If you would like to do this workshop from the comfort of your own machine, you will need the following:
